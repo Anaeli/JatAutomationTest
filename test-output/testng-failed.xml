@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="test.CreateTasksForUserStories">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="verifyThatUserStoryStoreTasks" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- test.CreateTasksForUserStories -->
+      <class name="test.featureSuiteSetup">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- test.featureSuiteSetup -->
+      <class name="test.MoveUserStoryFromBacklogToIcebox">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- test.MoveUserStoryFromBacklogToIcebox -->
+      <class name="test.MoveUserStoryFromIceboxToBacklog">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- test.MoveUserStoryFromIceboxToBacklog -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
