@@ -8,7 +8,7 @@ import common.SeleniumDriverManager;
 /**
  * 
  * @author marco llano
- *
+ * This is the page where users will administrate Projects.
  */
 public class DashboardPage {
 	WebDriver driver;

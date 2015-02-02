@@ -8,7 +8,7 @@ import common.SeleniumDriverManager;
 /**
  * 
  * @author marco llano
- *
+ * This is the page where users need to pass alwais to login JAT
  */
 public class LoginPage {
 	WebDriver driver;

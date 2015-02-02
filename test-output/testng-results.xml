@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20252" started-at="2015-01-30T22:58:51Z" finished-at="2015-01-30T22:59:11Z">
+  <suite name="Suite" duration-ms="23045" started-at="2015-02-02T18:48:00Z" finished-at="2015-02-02T18:48:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="20252" started-at="2015-01-30T22:58:51Z" finished-at="2015-01-30T22:59:11Z">
+    <test name="Test" duration-ms="23045" started-at="2015-02-02T18:48:00Z" finished-at="2015-02-02T18:48:23Z">
       <class name="test.MoveUserStoryFromBacklogToIcebox">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="beforeTest" is-config="true" duration-ms="7931" started-at="2015-01-30T18:58:51Z" finished-at="2015-01-30T18:58:59Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="beforeTest" is-config="true" duration-ms="7615" started-at="2015-02-02T14:48:00Z" finished-at="2015-02-02T14:48:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="verifyDragAndDropBacklogToIcebox()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="verifyDragAndDropBacklogToIcebox" duration-ms="830" started-at="2015-01-30T18:58:59Z" finished-at="2015-01-30T18:58:59Z">
+        <test-method status="PASS" signature="verifyDragAndDropBacklogToIcebox()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="verifyDragAndDropBacklogToIcebox" duration-ms="1525" started-at="2015-02-02T14:48:08Z" finished-at="2015-02-02T14:48:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDragAndDropBacklogToIcebox -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="afterTest" is-config="true" duration-ms="1438" started-at="2015-01-30T18:58:59Z" finished-at="2015-01-30T18:59:01Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.MoveUserStoryFromBacklogToIcebox@75d3a5e0]" name="afterTest" is-config="true" duration-ms="2171" started-at="2015-02-02T14:48:09Z" finished-at="2015-02-02T14:48:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- test.MoveUserStoryFromBacklogToIcebox -->
       <class name="test.MoveUserStoryFromIceboxToBacklog">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="beforeMethod" is-config="true" duration-ms="1602" started-at="2015-01-30T18:59:01Z" finished-at="2015-01-30T18:59:03Z">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="beforeMethod" is-config="true" duration-ms="2119" started-at="2015-02-02T14:48:12Z" finished-at="2015-02-02T14:48:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyDragAndDropIceboxToBacklog()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="verifyDragAndDropIceboxToBacklog" duration-ms="986" started-at="2015-01-30T18:59:03Z" finished-at="2015-01-30T18:59:04Z">
+        <test-method status="PASS" signature="verifyDragAndDropIceboxToBacklog()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="verifyDragAndDropIceboxToBacklog" duration-ms="1009" started-at="2015-02-02T14:48:14Z" finished-at="2015-02-02T14:48:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDragAndDropIceboxToBacklog -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="afterTest" is-config="true" duration-ms="1170" started-at="2015-01-30T18:59:04Z" finished-at="2015-01-30T18:59:05Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.MoveUserStoryFromIceboxToBacklog@74d1dc36]" name="afterTest" is-config="true" duration-ms="1498" started-at="2015-02-02T14:48:15Z" finished-at="2015-02-02T14:48:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- test.MoveUserStoryFromIceboxToBacklog -->
       <class name="test.CreateTasksForUserStories">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="beforeTest" is-config="true" duration-ms="1297" started-at="2015-01-30T18:59:05Z" finished-at="2015-01-30T18:59:06Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="beforeTest" is-config="true" duration-ms="1714" started-at="2015-02-02T14:48:16Z" finished-at="2015-02-02T14:48:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="verifyThatUserStoryStoreTasks(java.lang.String)[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="verifyThatUserStoryStoreTasks" duration-ms="1296" started-at="2015-01-30T18:59:06Z" data-provider="tasksForUserStory" finished-at="2015-01-30T18:59:07Z">
+        <test-method status="PASS" signature="verifyThatUserStoryStoreTasks(java.lang.String)[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="verifyThatUserStoryStoreTasks" duration-ms="1130" started-at="2015-02-02T14:48:18Z" data-provider="tasksForUserStory" finished-at="2015-02-02T14:48:19Z">
           <params>
             <param index="0">
               <value>
@@ -50,17 +50,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyThatUserStoryStoreTasks -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="afterTest" is-config="true" duration-ms="3504" started-at="2015-01-30T18:59:07Z" finished-at="2015-01-30T18:59:11Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.CreateTasksForUserStories@74ea2410]" name="afterTest" is-config="true" duration-ms="4144" started-at="2015-02-02T14:48:19Z" finished-at="2015-02-02T14:48:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- test.CreateTasksForUserStories -->
       <class name="test.featureSuiteSetup">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.featureSuiteSetup@1ca3b418]" name="beforeSuite" is-config="true" duration-ms="4629" started-at="2015-01-30T18:58:46Z" finished-at="2015-01-30T18:58:51Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.featureSuiteSetup@1ca3b418]" name="beforeSuite" is-config="true" duration-ms="5353" started-at="2015-02-02T14:47:55Z" finished-at="2015-02-02T14:48:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.featureSuiteSetup@1ca3b418]" name="afterSuite" is-config="true" duration-ms="1826" started-at="2015-01-30T18:59:11Z" finished-at="2015-01-30T18:59:13Z">
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.featureSuiteSetup@1ca3b418]" name="afterSuite" is-config="true" duration-ms="3489" started-at="2015-02-02T14:48:24Z" finished-at="2015-02-02T14:48:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->

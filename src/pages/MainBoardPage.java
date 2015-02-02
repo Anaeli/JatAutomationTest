@@ -9,7 +9,7 @@ import common.SeleniumDriverManager;
 /**
  * 
  * @author marco llano
- *
+ * This is the page where all the User Stories will be, that's why it calls Main.
  */
 public class MainBoardPage {
 	WebDriver driver;

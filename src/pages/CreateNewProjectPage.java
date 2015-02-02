@@ -8,7 +8,7 @@ import common.SeleniumDriverManager;
 /**
  * 
  * @author marco llano
- *
+ * This is the form where the user will create projects, is located in DashboardPage.
  */
 public class CreateNewProjectPage {
 	WebDriver driver;
